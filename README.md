@@ -1,2 +1,2 @@
 # GRM
-Grid based Rainfall Runoff Model
+Grid based rainfall Runoff Model
