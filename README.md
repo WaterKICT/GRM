@@ -17,6 +17,11 @@ The model indroduction and the download guidelines are wiki page at https://gith
 - ALTEK Tool. https://github.com/swallowWings/ALTEK/tree/master/DownloadStableVersion 에서 다운로드  
 <br/>
 
+# The WMO inventory of the recommended model for flood forecasting and early warning systems  
+* WMO web page link  
+  https://www.floodmanagement.info/e2e-ews-ff-community-of-practice-area/resources/inventory/grm
+<br/>
+
 # YouTube video clips
 - The GRM model : [**[Link]**](https://www.youtube.com/watch?v=w9sBGezkPes)  
 - Flood analysis using satellite precipitation and global geographic data : [**[Link]**](https://www.youtube.com/watch?v=Kh92vCsdMs4)  
