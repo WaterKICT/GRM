@@ -14,7 +14,7 @@ The model indroduction and the download guidelines are wiki page at https://gith
 * GRM 모델 실행파일, 매뉴얼, 샘플데이터, 소스코드 다운로드   
   https://github.com/floodmodel/GRM/tree/master/DownloadStableVersion
   
-## QGIS-GRM
+## GUI S/W (QGIS-GRM)
 - GRM 모형의 QGIS plugin GUI  
   https://github.com/floodmodel/Plugin_repository_QGIS3.10/tree/main/QGIS_GRM 에서 다운로드
 
