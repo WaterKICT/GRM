@@ -4,7 +4,7 @@ The model indroduction and the download guidelines are wiki page at https://gith
 <br/><br/>
 
 # YouTube video clips
-- GRM model : [**[Link]**](https://www.youtube.com/watch?v=w9sBGezkPes)  
+- The GRM model : [**[Link]**](https://www.youtube.com/watch?v=w9sBGezkPes)  
 - Flood analysis using satellite precipitation and global geographic data : [**[Link]**](https://www.youtube.com/watch?v=Kh92vCsdMs4)  
 - Introduction to the GRM and G2D model (ETRI Open Source Tech Day 2021) : [**[Link]**](https://www.youtube.com/watch?v=OFRqzLPlD2Q)
 - Data processing tools : [**[Link]**](https://www.youtube.com/watch?v=iC3Qa9iwcus&t=62s)  
